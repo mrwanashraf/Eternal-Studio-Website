@@ -18,7 +18,7 @@ body {
 
 #nav {
 
-          background-color: #c5c5c5;
+          background-color: #ffffff;
           border: none;
           border-radius: none;
           margin-bottom: 20%;
@@ -77,7 +77,7 @@ li {
 
 .fa {
 
-        color: #333333;
+        color: #c5c5c5;
 
 }
 
@@ -107,12 +107,12 @@ li {
 #games {
 
           padding-top: 12vh;
-          background-color: #c5c5c5;
+          background-color: #ffffff;
 }
 
 #contactUs {
 
-          background-color: #c5c5c5;
+          background-color: #ffffff;
           text-align: center;
           width: inherit;
           font-size: 10vw;
@@ -135,7 +135,7 @@ footer {
         text-align: center;
         width: inherit;
         color: #333333;
-        background-color: #c5c5c5;
+        background-color: #ffffff;
 
 }
 
@@ -216,6 +216,15 @@ span {
           text-decoration: none;
 
 }
+
+.imgs {
+
+        width: 60%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+}
+
 
 
 .properSize {
